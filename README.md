@@ -2,6 +2,8 @@
 
 Welcome to the To-Do List App, a simple React-based application to help you manage tasks effectively. This app allows users to create tasks, delete them, and reorganize the list by moving tasks up or down.
 
+You can access the deployed app [here](https://sudhasai783.github.io/To-Do/).
+
 ---
 
 ## Features
@@ -30,3 +32,6 @@ Welcome to the To-Do List App, a simple React-based application to help you mana
 
 - Styling: CSS (basic styles)
 
+- Deployment: [GitHub Pages](https://pages.github.com/)
+
+Access the app: [To-Do List App](https://sudhasai783.github.io/To-Do/)
